@@ -23,14 +23,14 @@ export const footerSocials = [
 
 export const footerLists = [
 	{
-		title: 'Landing Pages',
+		title: '弊社について',
 		items: [
 			{
-				title: 'Landing Page 1',
+				title: 'unpackedとは',
 				slug: '/landing-pages/landing-1',
 			},
 			{
-				title: 'Landing Page 2',
+				title: '保護者の方へ',
 				slug: '/landing-pages/landing-2',
 			},
       // {
@@ -40,39 +40,39 @@ export const footerLists = [
 		],
 	},
 	{
-		title: 'Company',
+		title: '事業内容',
 		items: [
 			{
-				title: 'About',
+				title: 'U18キャリアサミット',
 				slug: '/company/about',
 			},
 			{
-				title: 'Blog',
+				title: 'イベント',
 				slug: '/blog',
 			},
 			{
-				title: 'Contact',
+				title: 'みらい事業部',
 				slug: '/company/contact',
 			},
 		],
 	},
 	{
-		title: 'Theme',
+		title: 'SNS',
 		items: [
 			{
-				title: 'Get Started',
+				title: '公式LINE',
 				slug: '/theme/get-started',
 			},
 			{
-				title: 'Style Guide',
+				title: '公式twitter',
 				slug: '/theme/style-guide',
 			},
       {
-        title: 'Theme Setup',
+        title: '公式Instagram',
         slug: '/theme/theme-setup',
       },
       {
-        title: 'Customizing Odyssey',
+        title: '公式Tiktok',
         slug: '/theme/customizing-odyssey',
       }
 		],
