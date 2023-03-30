@@ -30,7 +30,7 @@ export const footerLists = [
 				slug: '/landing-pages/landing-1',
 			},
 			{
-				title: '保護者の方へ',
+				title: 'お問い合わせ',
 				slug: '/landing-pages/landing-2',
 			},
       // {
@@ -40,10 +40,10 @@ export const footerLists = [
 		],
 	},
 	{
-		title: '事業内容',
+		title: 'U18向けコンテンツ',
 		items: [
 			{
-				title: 'U18キャリアサミット',
+				title: '保護者の方へ',
 				slug: '/company/about',
 			},
 			{
